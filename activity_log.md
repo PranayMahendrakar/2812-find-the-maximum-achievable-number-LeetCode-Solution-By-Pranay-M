@@ -4,3 +4,4 @@
 - [2026-03-05T17:05:08Z] test: add unit tests for core module
 - [2026-03-05T10:37:36Z] style: apply consistent code formatting
 - [2026-03-13T20:22:24Z] refactor: simplify conditional logic
+- [2026-03-13T16:12:04Z] fix: handle null pointer exception
