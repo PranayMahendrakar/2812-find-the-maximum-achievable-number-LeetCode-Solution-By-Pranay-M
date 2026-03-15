@@ -9,3 +9,4 @@
 - [2026-03-13T12:10:49Z] docs: improve inline documentation
 - [2026-03-13T10:56:11Z] docs: improve inline documentation
 - [2026-03-15T20:17:16Z] chore: update dependencies to latest versions
+- [2026-03-15T16:48:06Z] fix: handle null pointer exception
